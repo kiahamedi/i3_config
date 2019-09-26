@@ -1,6 +1,11 @@
 # i3_config
 
 
+![Alt text](https://raw.githubusercontent.com/kiahamedi/i3_config/master/screenshot_i3.jpg "Optional title")
+
+Deps:</br>
+`i3-gaps,i3blocks` </br>
+
 my config i3:
 
 1-set wallpaper
